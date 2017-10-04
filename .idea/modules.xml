@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProgFun.iml" filepath="$PROJECT_DIR$/.idea/ProgFun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objsets/.idea/modules/Prog_Princ_in_Scala-root.iml" filepath="$PROJECT_DIR$/objsets/.idea/modules/Prog_Princ_in_Scala-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patmat/.idea/modules/Prog_Princ_in_Scala-root~1.iml" filepath="$PROJECT_DIR$/patmat/.idea/modules/Prog_Princ_in_Scala-root~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objsets/.idea/modules/objsets-root-build.iml" filepath="$PROJECT_DIR$/objsets/.idea/modules/objsets-root-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patmat/.idea/modules/patmat-root-build.iml" filepath="$PROJECT_DIR$/patmat/.idea/modules/patmat-root-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recfun/.idea/modules/recfun-root-build.iml" filepath="$PROJECT_DIR$/recfun/.idea/modules/recfun-root-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recfun/.idea/modules/root.iml" filepath="$PROJECT_DIR$/recfun/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forcomp/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/forcomp/.idea/modules/root-build.iml" />
+    </modules>
+  </component>
+</project>
